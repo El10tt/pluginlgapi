@@ -21,7 +21,7 @@ GetWereWolfAPI ww = (GetWereWolfAPI) Bukkit.getPluginManager().getPlugin("plugin
 ```
 Puis :
 ```
-WerewolfApi werewolfAPI = ww.getWereWolfAPI();
+WerewolfAPI werewolfAPI = ww.getWereWolfAPI();
 ```
 
 ## Authors
